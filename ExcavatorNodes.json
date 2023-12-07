@@ -1,0 +1,1497 @@
+{
+  "Name": "ExcavatorNodes",
+  "Author": "Raiven007",
+  "SchemaVersion": 2.0,
+  "Url": "https://www.dropbox.com/s/r3pby89699ow1gr/ServerInfoPanelImage.png?dl=1",
+  "MonumentData": {
+    "excavator_1": {
+      "Entities": [
+        {
+          "Id": "333fb63d-d4c2-4f6a-b989-5a092e14f5ab",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 106.687378,
+            "y": -5.70089149,
+            "z": -29.58075
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 355.115723,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "ae737069-2fb9-44c6-b8f6-0fed5854b7fb",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 107.543823,
+            "y": -5.441309,
+            "z": -27.3169556
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 266.3721,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "cf72a57e-970d-46c3-bbf2-bb0fba9e5113",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 105.828491,
+            "y": -5.828516,
+            "z": -27.9591675
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 280.2719,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "c269d70d-f570-47c4-9a97-361547b3b5c2",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 107.033081,
+            "y": -5.519312,
+            "z": -35.7995
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 284.354431,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "f46582d0-1c80-4975-b515-39b699ed533e",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 105.829956,
+            "y": -5.79433632,
+            "z": -38.27777
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 291.1585,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "1b171b94-70fe-4eac-ac75-fe9ffeb400e4",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 108.351929,
+            "y": -5.09688759,
+            "z": -37.9442749
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 198.527374,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "260b014f-9d16-481f-93b2-e64708c406d6",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 94.7489,
+            "y": -4.44375038,
+            "z": -73.38519
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 343.0636,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "1bb9dd49-5eb0-4b8e-a7cc-029f1da8eeb4",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 92.9407959,
+            "y": -4.75087929,
+            "z": -72.99884
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 15.4312134,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "942fdb4d-44bb-45e4-a034-2f770a32faf1",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 93.63513,
+            "y": -5.028467,
+            "z": -71.63202
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 311.9596,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "297f6595-6a01-43db-97d6-0779affe73c0",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 89.7449951,
+            "y": -4.27218056,
+            "z": -79.953064
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 294.8526,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "61b8754e-3bf2-43d1-b503-b366177611bf",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 88.21326,
+            "y": -4.529993,
+            "z": -82.45502
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 332.177368,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "2840550c-bf37-4c3f-9dde-f9777bb85774",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 87.93152,
+            "y": -4.78035927,
+            "z": -80.2450562
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 281.827759,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "3457f503-58a1-4f98-bd04-5cd6a0efadce",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 67.5150146,
+            "y": -4.988367,
+            "z": -93.54669
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 339.4384,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "c3e85375-1e0a-4bd2-8949-91917febbac7",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 70.8157959,
+            "y": -5.465845,
+            "z": -91.3163452
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 280.826843,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "d1e21077-d03e-4aa5-9d4c-b44e4157eac8",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 66.4491,
+            "y": -5.628809,
+            "z": -91.34418
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 14.3333435,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "2067d07f-e51c-40de-b1b4-d452bd72234a",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 63.8875732,
+            "y": -5.30550575,
+            "z": -93.91058
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 322.525848,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "700b857b-6bc8-4bd1-82e3-a746c9b91f54",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 63.8138428,
+            "y": -5.82436562,
+            "z": -91.56146
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 322.594269,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "200ac2d9-8f4f-4b73-8d9c-e101f0c8faf1",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 69.0203857,
+            "y": -5.76857948,
+            "z": -89.8432
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 318.123016,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "9d41a7dd-775f-4146-b141-72348628d14e",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 92.02478,
+            "y": -5.14858437,
+            "z": -71.96307
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 348.643463,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "669425a9-f5eb-49d4-b58d-a2035f016097",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 1.024292,
+            "y": -6.241724,
+            "z": -34.52423
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 73.5675049,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "fcb2884c-d364-4dde-9b69-57cac07673a9",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 2.65319824,
+            "y": -6.359888,
+            "z": -37.5999146
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 28.6611023,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "008db6b6-0a53-45fd-9122-2de07ba0d28d",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 5.855591,
+            "y": -6.444849,
+            "z": -38.41742
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 350.072754,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "54e86fd6-b86a-494c-8323-95a43726ac6d",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 23.7845459,
+            "y": -6.576441,
+            "z": -56.4489136
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 67.73544,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "7eda48ca-41f3-4c92-ac23-45e9f4abd021",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 17.9161377,
+            "y": -6.60585976,
+            "z": -69.99872
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 25.5506287,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "3f00bcbc-b6d8-44b9-9ce5-762416f07258",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 31.5201416,
+            "y": -6.300684,
+            "z": -76.2995
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 307.9852,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "f2b225f6-513d-41df-a19d-54f4eca49eb9",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 44.46472,
+            "y": -6.55288124,
+            "z": -75.02289
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 258.996368,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "30669b1f-a7d0-4d61-b735-f2aae264cc7d",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 46.1541748,
+            "y": -6.335596,
+            "z": -88.36664
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 264.925446,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "fe91ac5e-d1d2-4fc8-89c9-3797d6ceb3db",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 56.8280029,
+            "y": -6.56191444,
+            "z": -82.26166
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 223.4211,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "ae35e18b-183b-4a5c-a8c8-9ee364be2b65",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 61.0282,
+            "y": -6.61059,
+            "z": -76.56769
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 306.9159,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "8c2f9af6-ea05-4fa6-999a-0658419dd18b",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 70.1864,
+            "y": -6.56545448,
+            "z": -67.7620239
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 244.805054,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "82a0826e-ab10-4218-b53b-7acd1573ce2e",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 76.47351,
+            "y": -6.45961952,
+            "z": -56.3080444
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 213.506653,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "04243c07-0239-4004-a6d4-4c814fa73ce9",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 78.01013,
+            "y": -6.457239,
+            "z": -58.1359253
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 249.373444,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "f60f1bab-2135-43d8-9d53-c9e0428b0536",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 79.80359,
+            "y": -6.540552,
+            "z": -28.75653
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 170.54425,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "bed693e7-fa01-435d-9b0a-fc55b9b37e4e",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 81.574585,
+            "y": -6.50948524,
+            "z": -29.22284
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 192.219849,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "94bbcfe6-f7bf-4766-8b6d-5adf8cb6292b",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 72.855835,
+            "y": -6.666895,
+            "z": -8.384949
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 163.545837,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "7911af3c-6cc2-4cb6-b85d-de8bda05365e",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 75.96033,
+            "y": -6.65459633,
+            "z": -9.003235
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 213.895447,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "0fa56da4-e2c2-46ef-9b49-8b18d193b255",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 54.0599365,
+            "y": -6.66597939,
+            "z": -6.91265869
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 74.12186,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "960349d7-bdae-4d3b-8f9a-e8e0bb3ce31c",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 49.27649,
+            "y": -6.40603065,
+            "z": -17.58551
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 29.895874,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "857cec66-0de2-4aab-92b5-62662a7a492a",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 20.3214111,
+            "y": -6.53640175,
+            "z": -21.5753784
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 47.9749451,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "3d2d6964-7363-479a-a827-cd7238d19018",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 16.55774,
+            "y": -6.38460732,
+            "z": -18.7310181
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 82.09219,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "d367b8b5-d235-4f56-8cfb-fbc2b093e06f",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 9.632935,
+            "y": -6.538904,
+            "z": -31.8617554
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 53.4182739,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "c65a5c0c-5cac-4a5a-a8b4-8b497b08bc67",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 18.80481,
+            "y": -6.56209755,
+            "z": -46.3598022
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 311.9416,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "b50a96b9-30b7-4cd0-a0a8-964c4701a362",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+          "Position": {
+            "x": 14.2567139,
+            "y": -6.279627,
+            "z": -56.2473755
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 34.17273,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "4fada278-b856-41ad-a5fb-e3e4dd6361b0",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 29.5980225,
+            "y": -6.47182655,
+            "z": -50.0597534
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 252.163513,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "3fd1758e-1284-46a0-ba5d-77dc33059494",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 32.29236,
+            "y": -6.03743935,
+            "z": -88.7850952
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 111.446564,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "05c5fe47-730e-4398-855f-8e526a866d8e",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 58.09192,
+            "y": -6.34939,
+            "z": -88.7702
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 292.724579,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "6fb9be3e-f492-4449-b418-334a4864cd48",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 56.4927979,
+            "y": -6.633295,
+            "z": -69.79315
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 213.700989,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "c13b8930-5b45-4407-9fb1-f073afbbc036",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 67.69861,
+            "y": -6.453577,
+            "z": -61.0568237
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 216.033783,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "d65ab66b-62d6-470e-a6e2-c016f18bb835",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 70.25769,
+            "y": -6.57229042,
+            "z": -52.0509644
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 176.667786,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "aae7b8e1-e8d9-4b45-89df-64d5e8355184",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 71.86951,
+            "y": -6.550867,
+            "z": -52.8151245
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 193.67778,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "27822a92-9d4f-46ce-a4e5-fc9b1bf15c17",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 88.55505,
+            "y": -6.48598671,
+            "z": -43.3710327
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 220.893784,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "31ac30d6-0a47-4f4c-830a-83fc6f6800a3",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 98.91931,
+            "y": -6.344446,
+            "z": -49.805603
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 277.9502,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "4a88a932-f420-4493-aa8f-0eff476f7a90",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 101.745483,
+            "y": -5.61001,
+            "z": -54.2932739
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 313.5254,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "732ba49b-c9d8-466b-89ab-82eba36434a4",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 107.28894,
+            "y": -5.434168,
+            "z": -40.3349
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 219.435791,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "4ebfd9b8-82ab-4845-90a3-4a4beea92c8c",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 100.734741,
+            "y": -6.45644569,
+            "z": -35.4107056
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 168.989014,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "f4a88425-64e3-406b-b658-814decbc15c9",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 102.482788,
+            "y": -6.019861,
+            "z": -24.2467651
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 181.527786,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "a6531456-b272-4d42-9ce6-1a5a02e5bd93",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 96.16687,
+            "y": -6.20406532,
+            "z": -14.309021
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 148.6742,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "dc9c4b81-d9ce-4dfa-ab60-e1532559d301",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 100.542358,
+            "y": -5.344019,
+            "z": -5.140808
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 197.176987,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "5ec65593-c170-42c8-b542-c72f231d37d7",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 97.53259,
+            "y": -5.44948769,
+            "z": -0.876159668
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 167.9198,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "b7bfe154-f411-4e3a-9bd9-254e7643e501",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 87.2674561,
+            "y": -6.419092,
+            "z": 1.26202393
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 107.0726,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "ac6472a2-33b4-4e29-9e29-346fe8b7d3cb",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 83.989624,
+            "y": -6.47158241,
+            "z": -7.81842041
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 39.32419,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "2cda3d1e-0290-4631-a31a-0cccb77a4938",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 71.58679,
+            "y": -6.64724159,
+            "z": -15.3825073
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 64.8877258,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "c648d229-6c35-4acb-9925-621184fb2298",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 59.6873779,
+            "y": -6.342798,
+            "z": -15.888855
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 41.5597534,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "3fd61ce9-f815-4edd-8465-6590cd8aed8c",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 59.59314,
+            "y": -6.48952675,
+            "z": -13.9725952
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 64.9849243,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "47518b0e-25a9-47e3-9bb8-3820d3db6513",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 46.13855,
+            "y": -6.59877968,
+            "z": -6.254822
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 90.84015,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "f4172799-329f-4f20-8314-be0d4f138d9f",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 40.9471436,
+            "y": -6.330225,
+            "z": -17.0027466
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 33.492157,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "c8329292-e1f9-4242-ac90-840dbaa77c1c",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 28.958374,
+            "y": -6.24776649,
+            "z": -13.0227661
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 89.9653,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "fbb07443-4aa0-4a32-88f9-ecc94e73a835",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 25.925415,
+            "y": -6.391016,
+            "z": -21.50177
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 46.22525,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "16fce666-2386-48d1-9152-b937e3969e81",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 18.61438,
+            "y": -6.31228065,
+            "z": -30.33844
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 345.086334,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "ec838eb9-3439-47cd-8518-6f90e4bf267e",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 15.3280029,
+            "y": -6.44918251,
+            "z": -31.58551
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 24.1607666,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "95719658-3f1b-4202-b0ba-bf068ef3a39b",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 2.11828613,
+            "y": -6.53261757,
+            "z": -29.8721313
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 92.29791,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "8cb4afcc-85c9-4881-b8d6-40fee0f0b871",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 15.6595459,
+            "y": -6.36715126,
+            "z": -39.9819946
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 301.929626,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "73cf0ef6-df42-47d2-ab40-10c4c985ed0f",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 6.461548,
+            "y": -6.514673,
+            "z": -46.5139771
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 38.44922,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "e867c3ed-b0dd-4b2b-844d-b39203696d9e",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 14.9761963,
+            "y": -6.48061562,
+            "z": -51.788147
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 290.1685,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "fb0da665-26e8-450a-880b-f890abefc03b",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 21.6331787,
+            "y": -6.558069,
+            "z": -63.5495
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 294.251,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "09d963d8-2957-45e8-92e1-bfd5817268a9",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 23.2279053,
+            "y": -6.60030556,
+            "z": -66.3421
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 308.733765,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "9392b41c-1145-4a3a-b1e4-c0d41939f26e",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 20.7208252,
+            "y": -5.385889,
+            "z": -82.03119
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 36.0192261,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "0251a5a1-134a-4adf-890c-a238ed32a1bf",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 28.1663818,
+            "y": -5.56026649,
+            "z": -85.53998
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 329.923218,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "915695ef-3180-4435-95a2-bf82a5336975",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 38.116333,
+            "y": -6.33309364,
+            "z": -79.09064
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 247.497559,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "fccc257e-a06b-4a5c-8936-a64b541bd070",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 51.0633545,
+            "y": -6.31191444,
+            "z": -77.33807
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 247.011749,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "a65f29a0-93a8-481f-a1a1-9619f8f41ee8",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 51.3529053,
+            "y": -6.36532,
+            "z": -79.61566
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 271.895,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "d243b579-7651-46a7-84e9-e2d718647a0a",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 75.31677,
+            "y": -6.425684,
+            "z": -78.46088
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 273.644836,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "54afc134-814d-4e33-b0c3-106c2dd0d27d",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 100.746948,
+            "y": -5.95424843,
+            "z": -22.257019
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 212.311859,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "b49a56c4-cf80-4729-89d3-7614f93b29a7",
+          "PrefabName": "assets/bundled/prefabs/radtown/crate_elite.prefab",
+          "Position": {
+            "x": 34.20215,
+            "y": 2.03070259,
+            "z": -32.90619
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 9.675995,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "779d371b-787c-4f51-9a36-33fa4f017c57",
+          "PrefabName": "assets/bundled/prefabs/radtown/crate_elite.prefab",
+          "Position": {
+            "x": 32.75879,
+            "y": 2.03128624,
+            "z": -38.8297729
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 189.399109,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "2900fee7-4933-4e74-8022-496b4d1afacc",
+          "PrefabName": "assets/content/vehicles/trains/wagons/subents/wagon_crate_normal_2.prefab",
+          "Position": {
+            "x": -32.55652,
+            "y": 0.483978271,
+            "z": 17.3952026
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 152.43457,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "c13ff579-2af8-4689-9634-405c05851b6c",
+          "PrefabName": "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab",
+          "Position": {
+            "x": -7.26257324,
+            "y": 0.499164581,
+            "z": 16.9026489
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 82.89703,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "f3843759-889c-4891-8820-2d2adecbf6f5",
+          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "Position": {
+            "x": 62.1615,
+            "y": -6.675379,
+            "z": 4.95074463
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 81.2709351,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "a27b9a43-fe68-459a-883b-2cd383992657",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_sand/metal-ore.prefab",
+          "Position": {
+            "x": 60.2948,
+            "y": -6.60766029,
+            "z": 4.44036865
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 169.3341,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "c63f556b-20cd-499e-839a-10922fc8a72b",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_sand/sulfur-ore.prefab",
+          "Position": {
+            "x": 62.4261475,
+            "y": -6.659693,
+            "z": 2.88568115
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 130.8429,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "597afe29-8568-4b8c-9af2-b98d9e880413",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+          "Position": {
+            "x": 74.8358154,
+            "y": -6.288294,
+            "z": -41.1489868
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 151.88916,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "9a2056ab-b2dc-4e04-9328-7a0d2d38adbd",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+          "Position": {
+            "x": 77.15271,
+            "y": -6.286646,
+            "z": -39.6228638
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 134.781952,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "f7d737cb-1d74-4446-a98e-1a60c1ea1272",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "Position": {
+            "x": 6.85876465,
+            "y": -6.277796,
+            "z": -24.8349
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 202.238953,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "e14a0b0a-f459-4064-ba56-410f2e2d3137",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "Position": {
+            "x": 8.585327,
+            "y": -6.39913368,
+            "z": -57.7891235
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 5.04891968,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "f7ae2cd1-a490-43a1-8318-f7d1f3cc5139",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "Position": {
+            "x": 34.7218,
+            "y": -6.21987343,
+            "z": -90.42328
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 339.4853,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "183e1cc4-1dca-41e5-b122-9e991c30a57a",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 81.14197,
+            "y": -6.31575966,
+            "z": -74.46735
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 243.646088,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "61c04408-f7ec-4dc7-bb82-90d9c0597012",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "Position": {
+            "x": 96.53601,
+            "y": -6.399927,
+            "z": -51.0089722
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 328.793365,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "1de0d5fb-8ce9-4093-82be-eb78f12d10e4",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "Position": {
+            "x": 107.04187,
+            "y": -5.26534462,
+            "z": -24.1364136
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 259.101,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "872633ba-4ee4-423b-afe9-86742b58f7e7",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "Position": {
+            "x": 74.73035,
+            "y": -6.66250038,
+            "z": -6.491394
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 0.8407593,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "0b6d84f1-a840-4bd1-9746-11b84b9e95da",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 38.0350342,
+            "y": -6.500513,
+            "z": -9.916687
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 163.845154,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "aac32d9f-c1b4-451c-b59d-d1cefce4d99c",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "Position": {
+            "x": 16.4742432,
+            "y": -6.3517704,
+            "z": -29.791687
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 324.8084,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "0f62730a-6a5d-4dad-b0ea-dffdbceaa655",
+          "PrefabName": "assets/prefabs/deployable/furnace.large/furnace.large.prefab",
+          "SnapToTerrain": true,
+          "Position": {
+            "x": 19.7485352,
+            "y": 0.288305283,
+            "z": 18.5024414
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 93.52667,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "76a1030a-def7-42ed-92e6-69735c49f992",
+          "PrefabName": "assets/prefabs/deployable/furnace.large/furnace.large.prefab",
+          "Position": {
+            "x": -28.9370728,
+            "y": 0.3381958,
+            "z": 9.652832
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 160.302979,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "1525b115-5c6e-4578-8f2d-c3e2b6933de9",
+          "PrefabName": "assets/bundled/prefabs/static/small_refinery_static.prefab",
+          "Position": {
+            "x": 44.9963379,
+            "y": 0.826787949,
+            "z": 22.9105225
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 174.757324,
+            "z": 0.0
+          }
+        }
+      ]
+    }
+  }
+}
