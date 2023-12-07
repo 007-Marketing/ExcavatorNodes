@@ -2,7 +2,7 @@
   "Name": "ExcavatorNodes",
   "Author": "Raiven007",
   "SchemaVersion": 2.0,
-  "Url": "",
+  "Url": "https://raw.githubusercontent.com/007-Marketing/ExcavatorNodes/main/ExcavatorNodes.json",
   "MonumentData": {
     "excavator_1": {
       "Entities": [
