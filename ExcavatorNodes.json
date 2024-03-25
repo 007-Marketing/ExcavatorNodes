@@ -8,7 +8,7 @@
       "Entities": [
         {
           "Id": "333fb63d-d4c2-4f6a-b989-5a092e14f5ab",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "SnapToTerrain": true,
           "Position": {
             "x": 106.687378,
@@ -23,7 +23,7 @@
         },
         {
           "Id": "ae737069-2fb9-44c6-b8f6-0fed5854b7fb",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 107.543823,
             "y": -5.441309,
@@ -37,7 +37,7 @@
         },
         {
           "Id": "cf72a57e-970d-46c3-bbf2-bb0fba9e5113",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 105.828491,
             "y": -5.828516,
@@ -94,7 +94,7 @@
         },
         {
           "Id": "260b014f-9d16-481f-93b2-e64708c406d6",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 94.7489,
             "y": -4.44375038,
@@ -108,7 +108,7 @@
         },
         {
           "Id": "1bb9dd49-5eb0-4b8e-a7cc-029f1da8eeb4",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "SnapToTerrain": true,
           "Position": {
             "x": 92.9407959,
@@ -123,7 +123,7 @@
         },
         {
           "Id": "942fdb4d-44bb-45e4-a034-2f770a32faf1",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 93.63513,
             "y": -5.028467,
@@ -265,7 +265,7 @@
         },
         {
           "Id": "9d41a7dd-775f-4146-b141-72348628d14e",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 92.02478,
             "y": -5.14858437,
@@ -626,7 +626,7 @@
         },
         {
           "Id": "4fada278-b856-41ad-a5fb-e3e4dd6361b0",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 29.5980225,
             "y": -6.47182655,
@@ -640,7 +640,7 @@
         },
         {
           "Id": "3fd1758e-1284-46a0-ba5d-77dc33059494",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 32.29236,
             "y": -6.03743935,
@@ -654,7 +654,7 @@
         },
         {
           "Id": "05c5fe47-730e-4398-855f-8e526a866d8e",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 58.09192,
             "y": -6.34939,
@@ -668,7 +668,7 @@
         },
         {
           "Id": "6fb9be3e-f492-4449-b418-334a4864cd48",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 56.4927979,
             "y": -6.633295,
@@ -682,7 +682,7 @@
         },
         {
           "Id": "c13b8930-5b45-4407-9fb1-f073afbbc036",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "SnapToTerrain": true,
           "Position": {
             "x": 67.69861,
@@ -697,7 +697,7 @@
         },
         {
           "Id": "d65ab66b-62d6-470e-a6e2-c016f18bb835",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "SnapToTerrain": true,
           "Position": {
             "x": 70.25769,
@@ -712,7 +712,7 @@
         },
         {
           "Id": "aae7b8e1-e8d9-4b45-89df-64d5e8355184",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "SnapToTerrain": true,
           "Position": {
             "x": 71.86951,
@@ -727,7 +727,7 @@
         },
         {
           "Id": "27822a92-9d4f-46ce-a4e5-fc9b1bf15c17",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "SnapToTerrain": true,
           "Position": {
             "x": 88.55505,
@@ -742,7 +742,7 @@
         },
         {
           "Id": "31ac30d6-0a47-4f4c-830a-83fc6f6800a3",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 98.91931,
             "y": -6.344446,
@@ -756,7 +756,7 @@
         },
         {
           "Id": "4a88a932-f420-4493-aa8f-0eff476f7a90",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 101.745483,
             "y": -5.61001,
@@ -770,7 +770,7 @@
         },
         {
           "Id": "732ba49b-c9d8-466b-89ab-82eba36434a4",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 107.28894,
             "y": -5.434168,
@@ -784,7 +784,7 @@
         },
         {
           "Id": "4ebfd9b8-82ab-4845-90a3-4a4beea92c8c",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "SnapToTerrain": true,
           "Position": {
             "x": 100.734741,
@@ -799,7 +799,7 @@
         },
         {
           "Id": "f4a88425-64e3-406b-b658-814decbc15c9",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 102.482788,
             "y": -6.019861,
@@ -813,7 +813,7 @@
         },
         {
           "Id": "a6531456-b272-4d42-9ce6-1a5a02e5bd93",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 96.16687,
             "y": -6.20406532,
@@ -827,7 +827,7 @@
         },
         {
           "Id": "dc9c4b81-d9ce-4dfa-ab60-e1532559d301",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 100.542358,
             "y": -5.344019,
@@ -841,7 +841,7 @@
         },
         {
           "Id": "5ec65593-c170-42c8-b542-c72f231d37d7",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 97.53259,
             "y": -5.44948769,
@@ -855,7 +855,7 @@
         },
         {
           "Id": "b7bfe154-f411-4e3a-9bd9-254e7643e501",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 87.2674561,
             "y": -6.419092,
@@ -869,7 +869,7 @@
         },
         {
           "Id": "ac6472a2-33b4-4e29-9e29-346fe8b7d3cb",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 83.989624,
             "y": -6.47158241,
@@ -883,7 +883,7 @@
         },
         {
           "Id": "2cda3d1e-0290-4631-a31a-0cccb77a4938",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "SnapToTerrain": true,
           "Position": {
             "x": 71.58679,
@@ -898,7 +898,7 @@
         },
         {
           "Id": "c648d229-6c35-4acb-9925-621184fb2298",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 59.6873779,
             "y": -6.342798,
@@ -912,7 +912,7 @@
         },
         {
           "Id": "3fd61ce9-f815-4edd-8465-6590cd8aed8c",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 59.59314,
             "y": -6.48952675,
@@ -926,7 +926,7 @@
         },
         {
           "Id": "47518b0e-25a9-47e3-9bb8-3820d3db6513",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 46.13855,
             "y": -6.59877968,
@@ -940,7 +940,7 @@
         },
         {
           "Id": "f4172799-329f-4f20-8314-be0d4f138d9f",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 40.9471436,
             "y": -6.330225,
@@ -954,7 +954,7 @@
         },
         {
           "Id": "c8329292-e1f9-4242-ac90-840dbaa77c1c",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 28.958374,
             "y": -6.24776649,
@@ -968,7 +968,7 @@
         },
         {
           "Id": "fbb07443-4aa0-4a32-88f9-ecc94e73a835",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 25.925415,
             "y": -6.391016,
@@ -982,7 +982,7 @@
         },
         {
           "Id": "16fce666-2386-48d1-9152-b937e3969e81",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "SnapToTerrain": true,
           "Position": {
             "x": 18.61438,
@@ -997,7 +997,7 @@
         },
         {
           "Id": "ec838eb9-3439-47cd-8518-6f90e4bf267e",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 15.3280029,
             "y": -6.44918251,
@@ -1011,7 +1011,7 @@
         },
         {
           "Id": "95719658-3f1b-4202-b0ba-bf068ef3a39b",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 2.11828613,
             "y": -6.53261757,
@@ -1025,7 +1025,7 @@
         },
         {
           "Id": "8cb4afcc-85c9-4881-b8d6-40fee0f0b871",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 15.6595459,
             "y": -6.36715126,
@@ -1039,7 +1039,7 @@
         },
         {
           "Id": "73cf0ef6-df42-47d2-ab40-10c4c985ed0f",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 6.461548,
             "y": -6.514673,
@@ -1053,7 +1053,7 @@
         },
         {
           "Id": "e867c3ed-b0dd-4b2b-844d-b39203696d9e",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "SnapToTerrain": true,
           "Position": {
             "x": 14.9761963,
@@ -1068,7 +1068,7 @@
         },
         {
           "Id": "fb0da665-26e8-450a-880b-f890abefc03b",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 21.6331787,
             "y": -6.558069,
@@ -1082,7 +1082,7 @@
         },
         {
           "Id": "09d963d8-2957-45e8-92e1-bfd5817268a9",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 23.2279053,
             "y": -6.60030556,
@@ -1096,7 +1096,7 @@
         },
         {
           "Id": "9392b41c-1145-4a3a-b1e4-c0d41939f26e",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 20.7208252,
             "y": -5.385889,
@@ -1110,7 +1110,7 @@
         },
         {
           "Id": "0251a5a1-134a-4adf-890c-a238ed32a1bf",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 28.1663818,
             "y": -5.56026649,
@@ -1124,7 +1124,7 @@
         },
         {
           "Id": "915695ef-3180-4435-95a2-bf82a5336975",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 38.116333,
             "y": -6.33309364,
@@ -1138,7 +1138,7 @@
         },
         {
           "Id": "fccc257e-a06b-4a5c-8936-a64b541bd070",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "SnapToTerrain": true,
           "Position": {
             "x": 51.0633545,
@@ -1153,7 +1153,7 @@
         },
         {
           "Id": "a65f29a0-93a8-481f-a1a1-9619f8f41ee8",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "SnapToTerrain": true,
           "Position": {
             "x": 51.3529053,
@@ -1168,7 +1168,7 @@
         },
         {
           "Id": "d243b579-7651-46a7-84e9-e2d718647a0a",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 75.31677,
             "y": -6.425684,
@@ -1182,7 +1182,7 @@
         },
         {
           "Id": "54afc134-814d-4e33-b0c3-106c2dd0d27d",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 100.746948,
             "y": -5.95424843,
@@ -1238,7 +1238,7 @@
         },
         {
           "Id": "c13ff579-2af8-4689-9634-405c05851b6c",
-          "PrefabName": "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab",
+          "PrefabName": "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab",
           "Position": {
             "x": -7.26257324,
             "y": 0.499164581,
@@ -1252,7 +1252,7 @@
         },
         {
           "Id": "f3843759-889c-4891-8820-2d2adecbf6f5",
-          "PrefabName": "assets/bundled/prefabs/radtown/ore_sulfur.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 62.1615,
             "y": -6.675379,
@@ -1266,7 +1266,7 @@
         },
         {
           "Id": "a27b9a43-fe68-459a-883b-2cd383992657",
-          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_sand/metal-ore.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
           "Position": {
             "x": 60.2948,
             "y": -6.60766029,
@@ -1280,7 +1280,7 @@
         },
         {
           "Id": "c63f556b-20cd-499e-839a-10922fc8a72b",
-          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_sand/sulfur-ore.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 62.4261475,
             "y": -6.659693,
@@ -1294,7 +1294,7 @@
         },
         {
           "Id": "597afe29-8568-4b8c-9af2-b98d9e880413",
-          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
           "Position": {
             "x": 74.8358154,
             "y": -6.288294,
@@ -1308,7 +1308,7 @@
         },
         {
           "Id": "9a2056ab-b2dc-4e04-9328-7a0d2d38adbd",
-          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
           "Position": {
             "x": 77.15271,
             "y": -6.286646,
@@ -1322,7 +1322,7 @@
         },
         {
           "Id": "f7d737cb-1d74-4446-a98e-1a60c1ea1272",
-          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/stone-ore.prefab",
           "Position": {
             "x": 6.85876465,
             "y": -6.277796,
@@ -1336,7 +1336,7 @@
         },
         {
           "Id": "e14a0b0a-f459-4064-ba56-410f2e2d3137",
-          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/stone-ore.prefab",
           "Position": {
             "x": 8.585327,
             "y": -6.39913368,
@@ -1350,7 +1350,7 @@
         },
         {
           "Id": "f7ae2cd1-a490-43a1-8318-f7d1f3cc5139",
-          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/stone-ore.prefab",
           "Position": {
             "x": 34.7218,
             "y": -6.21987343,
@@ -1364,7 +1364,7 @@
         },
         {
           "Id": "183e1cc4-1dca-41e5-b122-9e991c30a57a",
-          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/stone-ore.prefab",
           "SnapToTerrain": true,
           "Position": {
             "x": 81.14197,
@@ -1379,7 +1379,7 @@
         },
         {
           "Id": "61c04408-f7ec-4dc7-bb82-90d9c0597012",
-          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/stone-ore.prefab",
           "Position": {
             "x": 96.53601,
             "y": -6.399927,
@@ -1393,7 +1393,7 @@
         },
         {
           "Id": "1de0d5fb-8ce9-4093-82be-eb78f12d10e4",
-          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/stone-ore.prefab",
           "Position": {
             "x": 107.04187,
             "y": -5.26534462,
@@ -1407,7 +1407,7 @@
         },
         {
           "Id": "872633ba-4ee4-423b-afe9-86742b58f7e7",
-          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/stone-ore.prefab",
           "Position": {
             "x": 74.73035,
             "y": -6.66250038,
@@ -1421,7 +1421,7 @@
         },
         {
           "Id": "0b6d84f1-a840-4bd1-9746-11b84b9e95da",
-          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/stone-ore.prefab",
           "SnapToTerrain": true,
           "Position": {
             "x": 38.0350342,
@@ -1436,7 +1436,7 @@
         },
         {
           "Id": "aac32d9f-c1b4-451c-b59d-d1cefce4d99c",
-          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+          "PrefabName": "assets/bundled/prefabs/autospawn/resource/ores_snow/stone-ore.prefab",
           "Position": {
             "x": 16.4742432,
             "y": -6.3517704,
